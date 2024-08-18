@@ -32,5 +32,5 @@ _Keyboard_
 
 *Projector*
 
-         _projects visual outputs onto a larger surface
+         -projects visual outputs onto a larger surface
         
