@@ -18,7 +18,7 @@ _Keyboard_
 
 # OUTPUT DEVICES
 
-*Monitor 
+*Monitor*
 
         -displays visual output from the computer
 
